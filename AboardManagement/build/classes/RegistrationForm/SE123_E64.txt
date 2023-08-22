@@ -1,0 +1,19 @@
+                                           Aboard Program Registration Form                                           
+
+Information Student: 
+
+Student id: SE123         Student name: Thi No          
+
+Major: SE                 Email: NotSE123@fpt.edu.vn          Phone: 12345                   Passport: VN123          
+
+Address: 1/1 ABC          Email of the parents: notemail@email.com                Phone of the parents:098323535                         
+
+Information of the aboard program:
+
+Program’s id: E64         Program’s name: English 6 oversea
+
+Time: July                Days: 30   Location: Malaysia        Cost: 1000$    
+
+Information of the registration:
+
+registration date:      28/06/2023
